@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+*{
+	box-sizing:border-box;
+}
+body>div{
+	height:7vh;
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:10px;
+}
+#incrementBtn:hover{
+	background:cyan;
+ 
+}
+/* .newDiv{
+	background-color:black;
+} */
